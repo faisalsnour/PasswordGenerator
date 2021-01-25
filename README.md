@@ -27,4 +27,4 @@ The following pictures show the web application's appearance and functionality;
 
 ## Live URL of the deployed application:
 
-[please click here](https://faisalsnour.github.io/homework3/)
+[please click here](https://faisalsnour.github.io/PasswordGenerator/)
